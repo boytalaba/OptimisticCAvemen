@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x53Ee57146C90Df337c24dC6fbD6E40130ab73073",
+  "SCAN_LINK": "https://optimistic.etherscan.io/token/0x53ee57146c90df337c24dc6fbd6e40130ab73073",
+  "NETWORK": {
+    "NAME": "OPTIMISTIC",
+    "SYMBOL": "OP",
+    "ID": 10
+  },
+  "NFT_NAME": "Optimistic Cavemen",
+  "SYMBOL": "OPCVMN",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Quixotic",
+  "MARKETPLACE_LINK": "https://quixotic.io/collection/0x53Ee57146C90Df337c24dC6fbD6E40130ab73073",
+  "SHOW_BACKGROUND": true
+}
